@@ -19,13 +19,13 @@ Set `/etc/hosts`:
 Install Packages:
 
 ```
-pnpm i
+npm i
 ```
 
 Start Server:
 
 ```
-pnpm dev
+npm run dev
 ```
 
 Then Navigate to the following link and observe the result.
